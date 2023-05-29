@@ -198,7 +198,7 @@ public class SudokuPanel extends JPanel implements KeyListener {
 
     public void handleMouseClick(int x, int y) {
         int boardSize = board.getSize();
-        int cellSize = getWidth() / boardSize;
+        int cellSize = Math.min(getWidth(), getHeight()) / boardSize;
         
         // Determine the row and column based on the mouse click coordinates
         int row = y / cellSize;
