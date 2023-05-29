@@ -7,7 +7,7 @@ This is a Java-based Sudoku game implementation. It provides a graphical user in
 - Arrow key navigation for moving across cells
 - Ability to input numbers in editable cells
 - Sudoku board validation to check for duplicate numbers in rows, columns, and blocks
-- Ability to generate new Sudoku boards with Easy, Medium, or Hard difficulty setting
+- Ability to generate new Sudoku boards with Easy, Medium, or Hard difficulty settings
 
 The project is implemented using Java and Swing for the graphical user interface.
 It follows the Model-View-Controller (MVC) design pattern, separating the game logic from the user interface.
