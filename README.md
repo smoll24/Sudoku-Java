@@ -12,6 +12,8 @@ This is a Java-based Sudoku game implementation. It provides a graphical user in
 The project is implemented using Java and Swing for the graphical user interface.
 It follows the Model-View-Controller (MVC) design pattern, separating the game logic from the user interface.
 
+![sudoku2](https://github.com/smoll24/Sudoku-Java/assets/115204665/a830fdfb-6b0a-41c6-bbdb-574b645f96a1)
+
 ### Usage:
 - Clone the repository and compile the Java files. 
 - Or use the Repl.it version, found here: https://replit.com/@smoll24/Sudoku-Java?v=1
