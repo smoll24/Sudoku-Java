@@ -1,7 +1,7 @@
 # Sudoku-Java
 This is a Java-based Sudoku game implementation. It provides a graphical user interface for playing Sudoku puzzles on your computer. The game features a Sudoku board that allows you to input numbers and solve the puzzle.
 
-###Features:
+### Features:
 - Interactive Sudoku board with a customizable grid size
 - Mouse click functionality to select and navigate cells
 - Arrow key navigation for moving across cells
