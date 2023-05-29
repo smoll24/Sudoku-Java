@@ -14,7 +14,7 @@ public class SudokuGame {
     frame = new JFrame("Sudoku Game");
     SudokuBoard board = new SudokuBoard(9);
     sudokuPanel = new SudokuPanel(board);
-    difficultyComboBox = new JComboBox<>(Difficulty.values()); // Instantiate the difficultyComboBox
+    difficultyComboBox = new JComboBox<>(Difficulty.values());
   }
 
   public void initializeGame() {
