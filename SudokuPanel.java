@@ -1,13 +1,10 @@
 import javax.swing.JPanel;
 import java.awt.Graphics;
-import java.awt.Color;
-import java.awt.Font;
+import java.awt.*;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
-import java.awt.Graphics2D;
-import java.awt.BasicStroke;
 import java.awt.event.KeyListener;
 
 public class SudokuPanel extends JPanel implements KeyListener {
@@ -23,6 +20,8 @@ public class SudokuPanel extends JPanel implements KeyListener {
     selectedNumber = 0; // Initialize the selectedNumber to 0
     selectedRow = -1; // Initialize the selectedRow to an invalid value
     selectedCol = -1; // Initialize the selectedCol to an invalid value
+    setMinimumSize(new Dimension(200, 200));
+    setPreferredSize(new Dimension(400,400));
 
     // Add a mouse listener to handle mouse clicks on the panel
     addMouseListener(new MouseAdapter() {
