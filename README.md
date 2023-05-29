@@ -12,7 +12,7 @@ The project is implemented using Java and Swing for the graphical user interface
 It follows the Model-View-Controller (MVC) design pattern, separating the game logic from the user interface.
 
 ### Usage:
-- To get started, clone the repository and compile the Java files. 
+- Clone the repository and compile the Java files. 
 - Or use the Repl.it version, found here: https://replit.com/@smoll24/Sudoku-Java?v=1
 
 
