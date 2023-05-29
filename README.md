@@ -12,7 +12,7 @@ This is a Java-based Sudoku game implementation. It provides a graphical user in
 The project is implemented using Java and Swing for the graphical user interface.
 It follows the Model-View-Controller (MVC) design pattern, separating the game logic from the user interface.
 
-<img src="**https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg**"  width="50%" height="50%">
+<img src="https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg"  width="50%" height="50%">
 
 ### Usage:
 - Clone the repository and compile the Java files. 
