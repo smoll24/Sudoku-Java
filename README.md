@@ -1,5 +1,5 @@
 # Sudoku-Java
-This is a Java-based Sudoku game implementation. It provides a graphical user interface for playing Sudoku puzzles on your computer. The game features a Sudoku board that allows you to input numbers and solve the puzzle.
+This is a Java-based Sudoku game implementation. It provides a graphical user interface for playing Sudoku puzzles on your computer. The game features a Sudoku board that allows you to generate a board with different difficulties, input numbers, solve the puzzle, and validate your solution.
 
 ### What's in this project?
 - An interactive Sudoku board with a customizable grid size
